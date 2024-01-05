@@ -6,7 +6,7 @@
 ## 데브코스 과제
 |과제|구현 내용|목표|제출 링크|기간|
 |:-------------------:|:----------:|:------------:|:-----------:|:-------------:|
-|계산기 구현 미션|콘솔로 계산기 기능 구현, 계산 이력 저장, 테스트 코드 작성|테스트 코드 작성 및 활용, 스스로 OOP를 생각하고 코드로 옮길 수 있는 능력 형성|[PR & 코드 리뷰 링크](https://github.com/prgrms-be-devcourse/java-calculator/pull/181 "https://github.com/prgrms-be-devcourse/java-calculator/pull/181")|2023.06.01 ~ 2023.06.16|
+|계산기 구현 미션|콘솔로 계산기 기능 구현, 계산 이력 저장, 테스트 코드 작성|테스트 코드 작성 및 활용, 스스로 OOP를 생각하고 코드로 옮길 수 있는 능력 향상|[PR & 코드 리뷰 링크](https://github.com/prgrms-be-devcourse/java-calculator/pull/181 "https://github.com/prgrms-be-devcourse/java-calculator/pull/181")|2023.06.01 ~ 2023.06.16|
 |디자인 패턴 탐구|디자인 패턴을 선택하여 탐구하고 팀 내에서 공유 및 발표|디자인 패턴 이해도 향상|[발표 영상 & 자료 링크](https://hy-eee.notion.site/9b89c50e53724ef59fc80ff7293f666c?pvs=4 "https://hy-eee.notion.site/9b89c50e53724ef59fc80ff7293f666c?pvs=4")|2023.06.01 ~ 2023.06.16|
 |SpringBoot Part 1 Weekly Mission|바우처 생성, 조회 기능 구현, 로그 설정, 파일을 통한 데이터 관리, 고객 블랙 리스트 명단 관리 기능 구현|스프링 이해도 항샹|[PR & 코드 리뷰 링크](https://github.com/prgrms-be-devcourse/java-calculator/pull/181 "https://github.com/prgrms-be-devcourse/java-calculator/pull/181")|2023.06.17 ~ 2023.06.30|
 |SpringBoot Part 2 Weekly Mission|단위 테스트 작성, JdbcTemplate 이용하여 DB 관리, 바우처 지갑 기능 구현|DB, JdbcTemplate 이해도 향상|[PR & 코드 리뷰 링크](https://github.com/prgrms-be-devcourse/springboot-basic/pull/759 "https://github.com/prgrms-be-devcourse/springboot-basic/pull/759")|2023.06.30 ~ 2023.07.07|
