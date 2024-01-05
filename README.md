@@ -20,7 +20,7 @@
 
 ## 프로젝트
 |프로젝트 명|인원|개요|역할|github 링크|기간|
-|:------------------:|:----------------:|:----------|:-:|:-:|:-:|
+|:------------------:|:----------------:|:----------:|:-:|:-:|:-:|
 |고수캐처(GosuCatcher)|백엔드 5명|도움이 필요한 일을 도와줄 ‘고수’를 매칭해주는 서비스 <br> (‘숨고(Soomgo)’ 클론 코딩)|백엔드 개발 - 고객 견적 관리, 고객 & 고수(전문가) 매칭, 채팅(웹 소켓), 채팅 메시지 기능 개발 담당|[Github 링크](https://github.com/hyee0715/GosuCatcher "https://github.com/hyee0715/GosuCatcher")|2023.08.26 ~ 2023.09.22|
 |딜라잇(Dealight)|프론트엔드 4명, <br> 백엔드 5명|소상공인들의 당일 폐기 예정 식품의 할인 정보 공유 및 구매/판매 서비스|백엔드 개발 - 상품, 장바구니 기능 개발 담당|[Github 링크](https://github.com/Team-PalPalHae-Dealight/Team-PalPalHae-Dealight-BE "https://github.com/Team-PalPalHae-Dealight/Team-PalPalHae-Dealight-BE")|2023.10.12 ~ 2023.12.04|
 
@@ -33,6 +33,6 @@
 에프팀 자체 해커톤 행사 참여
 
 |프로젝트 명|개요|링크|해커톤 참여 날짜|
-|:------------------:|:----------------:|:----------|:-:|
+|:------------------:|:------------:|:----------:|:-------:|
 |movie-checker|영화 상영 정보 조회 텔레그램 챗봇|[Github 링크](https://github.com/hyee0715/movie-checker "https://github.com/hyee0715/movie-checker")|2023.08.18 ~ 2023.08.19|
 
